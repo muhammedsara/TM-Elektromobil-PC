@@ -1,0 +1,93 @@
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+V:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+D:\Kocaeli University\TurkMekatronik\Elektromobil_Windows_App\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+A:\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+A:\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+A:\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\2016\ELEKTROMOBİL\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+C:\Users\sara\Desktop\Türk Mekatronik Yazılım\çalışma\2\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+D:\Bölüm\Projeler\Türk Mekatronik Yazılım\çalışma\yedek\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+C:\Users\muham\Desktop\TM-C#\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+C:\Users\muham\Desktop\TM-C#\ÇALIŞMA\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+C:\Users\muham\OneDrive\Bölüm\Projeler\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe.config
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.exe
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\bin\Debug\TM_Elektromobil_PC.pdb
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csprojResolveAssemblyReference.cache
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Form1.resources
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.Properties.Resources.resources
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.csproj.GenerateResource.Cache
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.exe
+D:\Projeler\Türk Mekatronik Yazılım\ÇALIŞMAAAAAAA\TM_Elektromobil_PC\TM_Elektromobil_PC\obj\Debug\TM_Elektromobil_PC.pdb
